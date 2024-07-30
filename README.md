@@ -1,2 +1,2 @@
 # Calculator
-This my first html css and js project
+This my first project using HTML and CSS
